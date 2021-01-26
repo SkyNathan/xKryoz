@@ -1,4 +1,4 @@
-### Hi there, I'm [xKryoz!](https://github.com/xKryoz) 👋.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
+### Hi there, I'm [xKryoz!](https://github.com/xKryoz) 👋.  
 
 
 <br/>
@@ -8,7 +8,7 @@
 
 <br />
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media1.tenor.com/images/dda26abcbba6606f8be1bd4b94263341/tenor.gif?itemid=16048882" />
 <br />
 
 ### Hi ,
@@ -29,7 +29,7 @@
 
 **I am Into , 🙏**
 
-**Learning Reverse engineering, white hat hacking **
+**Learning Reverse engineering, ethical hacking **
 <br />
 
 
