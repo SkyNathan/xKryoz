@@ -1,6 +1,6 @@
 # Hi there, I'm xKryoz - aka [xKryoz][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media2.giphy.com/media/6baW5lF9UxI6lfpc0c/giphy.gif" />
 
 ## I'm a Student Engineer  and a self taught developer 
 
@@ -11,11 +11,11 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="170px" src="hhttps://steamuserimages-a.akamaihd.net/ugc/1011563531420137629/133E07A560F70767FBD513BA38E943AF7399A12D/" />
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/d4ihylakjtihngeq81u8qak92?si=sPWELke5SFeZRzza3XEjqg)
+[![Spotify](https://open.spotify.com/user/d4ihylakjtihngeq81u8qak92?si=sPWELke5SFeZRzza3XEjqg)
 
 --
 
