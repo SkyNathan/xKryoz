@@ -9,15 +9,6 @@
 - 💪🏼 Future Goals: Learn 4 More languages, rely less on others.
 - ⚡ Fun fact: I paste alot.
 
----
-
-<img align="right" alt="GIF" height="170px" src="https://i.pinimg.com/originals/58/bd/4b/58bd4babf343b6d99c459845bb544fc2.gif/" />
-
-
-
---
-
-
 <br />
 
 ---
