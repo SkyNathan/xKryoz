@@ -11,11 +11,9 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="hhttps://steamuserimages-a.akamaihd.net/ugc/1011563531420137629/133E07A560F70767FBD513BA38E943AF7399A12D/" />
+<img align="right" alt="GIF" height="170px" src="https://i.pinimg.com/originals/58/bd/4b/58bd4babf343b6d99c459845bb544fc2.gif/" />
 
-### Spotify Playing 🎧
 
-[![Spotify](https://open.spotify.com/user/d4ihylakjtihngeq81u8qak92?si=sPWELke5SFeZRzza3XEjqg)
 
 --
 
