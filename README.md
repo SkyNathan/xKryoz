@@ -1,4 +1,4 @@
-# Hi there, I'm xKryoz - aka [xKryoz][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm xKryoz <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media2.giphy.com/media/6baW5lF9UxI6lfpc0c/giphy.gif" />
 
