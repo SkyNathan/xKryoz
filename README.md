@@ -5,7 +5,7 @@
 
 ### Hi there, I'm [xKryoz!](https://github.com/xKryoz) 👋.  
 <br/>
-![](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant)
+[![ xKryoz contact](https://api.xiloe.fr/v1/badges/badge.php?id=665728472647204886)](https://github.com/xKryoz)<br />
 
 
 <br />
