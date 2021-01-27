@@ -1,33 +1,20 @@
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media1.tenor.com/images/dda26abcbba6606f8be1bd4b94263341/tenor.gif?itemid=16048882" />
+
 ### Hi there, I'm [xKryoz!](https://github.com/xKryoz) 👋.  
-
-
 <br/>
-
-
 ![](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant)
 
 <br />
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media1.tenor.com/images/dda26abcbba6606f8be1bd4b94263341/tenor.gif?itemid=16048882" />
 <br />
 
 ### Hi ,
 ### I'm 16 years old, and a retard pretty much everything i do is self taught or pasted.
 
-
-
-
-
-
-
-
-
-
-
 <br />
 
 
-**I am Into , 🙏**
+**I am Currently Learning , 🙏**
 
 **Learning Reverse engineering, ethical hacking **
 <br />
