@@ -7,7 +7,7 @@
 - 👨‍💻 I’m currently working on Game Exploitation
 - 📚 I’m currently learning everything about c++ 😅
 - 💪🏼 Future Goals: Learn 4 More languages, rely less on others.
-- ⚡ Fun fact: I paste alot.
+
 
 <br />
 
@@ -40,7 +40,7 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nàthan&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SkyNathan&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xKryoz&theme=react&line_height=40&hide=css"/>
